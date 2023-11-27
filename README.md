@@ -2,7 +2,7 @@
 ### Я начинающий Data Scientist.
 ___
 - 🌱 Изучаю ООП
-- 📫 [Телеграм](https://t.me/yerokhin_artem)
+- 📫 [Мой Телеграмм](https://t.me/yerokhin_artem)
 
 ### Языки и инструменты:
 <img align="left" alt="Python" width="26px" src="https://github.com/ArtemYerokhin/ArtemYerokhin/assets/110336811/00b06ca2-09b5-48dc-94c4-2f70a72f2630" />
